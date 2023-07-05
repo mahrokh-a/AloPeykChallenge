@@ -1,8 +1,7 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Getting Started
+# AloPeyk
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+A marketplace app with 2 tabs. In the first tab, the user can see the categories, when the user clicks on that category, a list of products in will be shown. Each product has a “buy” button. When that button is clicked, a map will be shown to the user for them to select the delivery coordinates. When the user submits the location, the app will redirect them to a second tab. The second tab is the active orders of that same user. It will check every 5 seconds for the status of the order (e.g. pending, in-process, delivery, and delivered) and every 30 seconds the app will change the status of order automatically.
 
 ## Step 1: Start the Metro Server
 

@@ -1,0 +1,23 @@
+export default {
+    'red': "#ff5953",
+    'blue': "#9bbef4",
+    'yellow': "#d2bb2c",
+    'green': "#1fbca5",
+    'gray': "#333333",
+    'white': "#ffffff",
+    'black': "#000000",
+    'orange': '#e66a40',
+    'pink': '#7d4ae4',
+    'skyblue': '#2ba8c2',
+    'light-skyblue': '#8ec7d3',
+    'light-pink': '#bca1f2',
+    'dare-color': '#e4545480',
+    'truth-color': '#4b9eeb80',
+    'light-green': '#6dd5c5',
+    'light-blue': '#3e81e8',
+    'light-red': '#BD083A80',
+    'light-yellow': '#f3e169',
+    'light-orange': '#fda88b',
+    'light-gray': '#E4E4E4',
+    'smokey_red': '#422525'
+}
